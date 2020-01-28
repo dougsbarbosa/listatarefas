@@ -1,16 +1,4 @@
-# flutter_app
+# Lista de Tarefas
+Uma aplicação desenvolvida em Flutter (Dart) capaz de criar uma lista organizada e com a possibilidade de efetuar "checks" de concluído. Ao atualizar, a lista organiza as tarefas "Em Andamento" ao topo, também permitindo que delete e dentro de 2 segundos, consiga desfazer a operação.
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este projeto faz parte do curso "Crie 16 Apps" na Udemy, com orientação do Professor Daniel Ciolfi. 
